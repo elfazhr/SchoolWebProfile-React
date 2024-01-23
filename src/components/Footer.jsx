@@ -56,7 +56,7 @@ const Footer = () => {
             </div>
             <div className="w-full border-t border-slate-700 p-4">
                 <div class="flex items-center justify-center ">
-                    <p class="inline-block text-white text-base hover:text-[#21594E]">LearningX Copyright © 2024 All Rights Reserved</p>
+                    <p class="inline-block text-white text-base hover:text-[#21594E] dark:hover:text-[#21594E]">LearningX Copyright © 2024 All Rights Reserved</p>
                 </div>
             </div>
         </div>

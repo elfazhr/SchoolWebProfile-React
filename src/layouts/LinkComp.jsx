@@ -10,7 +10,7 @@ const LinkComp = (props) => {
           spy={true}
           smooth={true}
           duration={500}
-          className={`group relative inline-block cursor-pointer hover:text-${props.text} dark:text-white`}
+          className={`group relative inline-block cursor-pointer hover:text-${props.text} dark:text-white dark:hover:text-[#21594E]`}
           onClick={props.onClick}
         >
           {props.teks}
